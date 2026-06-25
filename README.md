@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/janavi06/DSA-Journey/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janavi06/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
@@ -16,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/janavi06/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
