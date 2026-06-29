@@ -40,12 +40,14 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/janavi06/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/janavi06/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/janavi06/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janavi06/DSA-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/janavi06/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/janavi06/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
