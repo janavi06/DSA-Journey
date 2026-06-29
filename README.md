@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/janavi06/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/janavi06/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -48,4 +50,5 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/janavi06/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
