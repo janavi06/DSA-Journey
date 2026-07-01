@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/janavi06/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/janavi06/DSA-Journey/tree/master/0509-fibonacci-number) |
