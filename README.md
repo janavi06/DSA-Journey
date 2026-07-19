@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/janavi06/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0496-next-greater-element-i](https://github.com/janavi06/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janavi06/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -67,6 +68,7 @@
 | [0141-linked-list-cycle](https://github.com/janavi06/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/janavi06/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/janavi06/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0020-valid-parentheses](https://github.com/janavi06/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/janavi06/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/janavi06/DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/janavi06/DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/janavi06/DSA-Journey/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/janavi06/DSA-Journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
