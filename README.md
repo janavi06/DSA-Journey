@@ -52,6 +52,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/janavi06/DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/janavi06/DSA-Journey/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/janavi06/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
@@ -99,6 +100,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/janavi06/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/janavi06/DSA-Journey/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/janavi06/DSA-Journey/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/janavi06/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
