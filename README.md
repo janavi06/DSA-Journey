@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/janavi06/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/janavi06/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/janavi06/DSA-Journey/tree/master/0739-daily-temperatures) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/janavi06/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janavi06/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
@@ -113,4 +115,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/janavi06/DSA-Journey/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
