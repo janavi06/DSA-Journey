@@ -1,7 +1,7 @@
 class Solution {
     public int characterReplacement(String s, int k) {
 
-        HashMap<Character,Integer> map = new HashMap<>();
+        HashMap<Character, Integer> map = new HashMap<>();
         int left = 0;
         int ans = 0;
         int maxFreq = 0;
@@ -10,21 +10,21 @@ class Solution {
             char ch = s.charAt(right);
             map.put(ch, map.getOrDefault(ch,0)+1);
 
-            maxFreq = Math.max(maxFreq,map.get(ch));
+            maxFreq = Math.max(maxFreq, map.get(ch));
 
-            while ((right - left + 1) - maxFreq > k){
+            while ((right - left + 1 - maxFreq) > k) {
                 char leftChar = s.charAt(left);
-                map.put(leftChar, map.get(leftChar)-1);
+                map.put(leftChar, map.get(leftChar) - 1);
 
-                if (map.get(leftChar)==0) {
-                    map.remove(leftChar);
+                if (map.get(ch) == 0) {
+                    map.remove(ch);
                 }
                 left++;
             }
             ans = Math.max(ans, right - left + 1);
+
         }
         return ans;
-
         
     }
 }
