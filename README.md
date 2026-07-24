@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/janavi06/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/janavi06/DSA-Journey/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/janavi06/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/janavi06/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/janavi06/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -136,4 +138,8 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/janavi06/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/janavi06/DSA-Journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
