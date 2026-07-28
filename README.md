@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/janavi06/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/janavi06/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/janavi06/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
@@ -25,6 +26,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/janavi06/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/janavi06/DSA-Journey/tree/master/0162-find-peak-element) |
