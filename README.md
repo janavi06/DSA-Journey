@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/janavi06/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/janavi06/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/janavi06/DSA-Journey/tree/master/0739-daily-temperatures) |
@@ -97,6 +98,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -152,4 +154,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/janavi06/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
