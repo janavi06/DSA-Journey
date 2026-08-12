@@ -22,6 +22,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janavi06/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janavi06/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/janavi06/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/janavi06/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -44,6 +45,7 @@
 | [0066-plus-one](https://github.com/janavi06/DSA-Journey/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/janavi06/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -155,12 +158,23 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/janavi06/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
