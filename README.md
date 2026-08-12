@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/janavi06/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/janavi06/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janavi06/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -34,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/janavi06/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janavi06/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janavi06/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -75,6 +77,7 @@
 | [0202-happy-number](https://github.com/janavi06/DSA-Journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/janavi06/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/janavi06/DSA-Journey/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/janavi06/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -146,6 +150,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/janavi06/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/janavi06/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/janavi06/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/janavi06/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -163,6 +168,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
