@@ -26,6 +26,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/janavi06/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/janavi06/DSA-Journey/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/janavi06/DSA-Journey/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
