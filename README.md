@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/janavi06/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/janavi06/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@
 | [0162-find-peak-element](https://github.com/janavi06/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janavi06/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/janavi06/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/janavi06/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/janavi06/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/janavi06/DSA-Journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janavi06/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/janavi06/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/janavi06/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/janavi06/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/janavi06/DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -193,4 +196,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/janavi06/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/janavi06/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
