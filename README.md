@@ -30,6 +30,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/janavi06/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/janavi06/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/janavi06/DSA-Journey/tree/master/1046-last-stone-weight) |
+| [1901-find-a-peak-element-ii](https://github.com/janavi06/DSA-Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/janavi06/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janavi06/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/janavi06/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/janavi06/DSA-Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -197,4 +199,5 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/janavi06/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/janavi06/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/janavi06/DSA-Journey/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
